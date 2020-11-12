@@ -4,14 +4,10 @@ function helloWorld() {
 }
 
 
-
-// function sayHello() {
-//     return (typeof sayHello, function () {
-
-//     });
-// }
-
 function sayHello() {
-    return "";
+  return "Hello, Jane!";
 }
+
+
+
 
