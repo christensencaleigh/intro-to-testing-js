@@ -11,8 +11,8 @@ function helloWorld() {
 //     return "Hello, World!";
 // }
 
-function helloWorld() {
-    return (typeof helloWorld, function() {
+function sayHello() {
+    return (typeof sayHello, function() {
 
     })
 }
